@@ -12,15 +12,15 @@ ________________________________________
 ⚙️ Teknologi dan Struktur Umumnya:
 •	Bahasa pemrograman: Java (Android Studio)
 •	Library:
-o	Retrofit + Gson Converter untuk API dan parsing data.
-o	Glide untuk memuat dan menampilkan gambar dengan lancar .
-o	RecyclerView, CardView untuk tampilan UI yang responsif
+1.	Retrofit + Gson Converter untuk API dan parsing data.
+2.  Glide untuk memuat dan menampilkan gambar dengan lancar .
+3. 	RecyclerView, CardView untuk tampilan UI yang responsif
 •	Arsitektur file tipikal:
-o	MainActivity.java: menampilkan daftar resep.
-o	DetailActivity.java: menampilkan resep terpilih secara rinci.
-o	RecipeAdapter.java: adapter untuk RecyclerView.
-o	DataRecipes.java: model data.
-o	APIService.java, APIConfig.java: untuk konfigurasi dan panggilan API
+1.  MainActivity.java: menampilkan daftar resep.
+2.  DetailActivity.java: menampilkan resep terpilih secara rinci.
+3.	RecipeAdapter.java: adapter untuk RecyclerView.
+4.	DataRecipes.java: model data.
+5.  APIService.java, APIConfig.java: untuk konfigurasi dan panggilan API
 ________________________________________
 🛠️ Cara Kerjanya:
 Tahap	Penjelasan
