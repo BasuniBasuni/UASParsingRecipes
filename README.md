@@ -32,8 +32,8 @@ Tahap	Penjelasan
 ________________________________________
 🎓 Kesimpulan
 Proyek Saya adalah aplikasi Android sederhana namun fungsional yang menggabungkan:
-•	Pengambilan data lewat API
-•	Parsing JSON dengan Retrofit + Gson
-•	Tampilan responsif menggunakan RecyclerView & CardView
-•	Pemrosesan gambar dengan Glide
+1.Pengambilan data lewat API
+2.Parsing JSON dengan Retrofit + Gson
+3.Tampilan responsif menggunakan RecyclerView & CardView
+4.Pemrosesan gambar dengan Glide
 
