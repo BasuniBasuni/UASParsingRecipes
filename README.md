@@ -10,17 +10,17 @@
 -   lide digunakan untuk memuat gambar thumbnail resep secara efisien ke dalam ImageView 
 ________________________________________
 ⚙️ Teknologi dan Struktur Umumnya:
-•	Bahasa pemrograman: Java (Android Studio)
-•	Library:
-1. Retrofit + Gson Converter untuk API dan parsing data.
-2. Glide untuk memuat dan menampilkan gambar dengan lancar .
-3. RecyclerView, CardView untuk tampilan UI yang responsif
-•	Arsitektur file tipikal:
-1. MainActivity.java: menampilkan daftar resep.
-2. DetailActivity.java: menampilkan resep terpilih secara rinci.
-3. RecipeAdapter.java: adapter untuk RecyclerView.
-4. DataRecipes.java: model data.
-5. API3 Service.java, APIConfig.java: untuk konfigurasi dan panggilan API
+Bahasa pemrograman: Java (Android Studio)
+Library:
+1.  Retrofit + Gson Converter untuk API dan parsing data.
+2.  Glide untuk memuat dan menampilkan gambar dengan lancar .
+3.  RecyclerView, CardView untuk tampilan UI yang responsif
+Arsitektur file tipikal:
+1.  MainActivity.java: menampilkan daftar resep.
+2.  DetailActivity.java: menampilkan resep terpilih secara rinci.
+3.  RecipeAdapter.java: adapter untuk RecyclerView.
+4.  DataRecipes.java: model data.
+5.  API3 Service.java, APIConfig.java: untuk konfigurasi dan panggilan API
 ________________________________________
 🛠️ Cara Kerjanya:
 Tahap	Penjelasan
